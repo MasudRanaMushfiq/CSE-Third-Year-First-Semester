@@ -1,0 +1,8 @@
+
+1. Note Made by Masud Rana Mushfiq. 
+2. Web Engineering book by pressman highlighted text. 
+3. Learning PHP 7 book highlighted text. 
+4. Web Security book highlighted text. 
+5. Slide of each chapter. (1,4,5 must) 
+6. Google classroom resources. 
+
