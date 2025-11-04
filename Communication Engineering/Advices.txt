@@ -1,0 +1,10 @@
+
+Study Techniques:
+
+1. Slide
+2. Books
+3. Solve books example in each chapter end questions
+(You have solution manual).
+
+(From YouTube Channel Lecturelia Slide Upto 2.2 is covered)
+(For error detection and others "BracU CSE320 - Data Communication" playlist)
